@@ -1,0 +1,13 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--cc --top-module wbtoliconverter --Mdir obj_dir_wbtoliconverter --assert -O3 --unroll-count 1000000 --unroll-stmts 1000000 --Wno-UNOPTFLAT --Wno-UNSIGNED --Wno-WIDTH wbtoliconverter__pickled.v"
+S   7484256 19402269  1687457540   615670706  1581264640           0 "/usr/bin/verilator_bin"
+S         0        0           0           0           1           0 "WbToLiConverter.v"
+T     18162 12985354  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter.cpp"
+T      3411 12985353  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter.h"
+T      1514 12985356  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter.mk"
+T       589 12985351  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter__Syms.cpp"
+T       851 12985352  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter__Syms.h"
+T       427 12985357  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter__ver.d"
+T         0        0  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter__verFiles.dat"
+T      1271 12985355  1688845680   543034840  1688845680   543034840 "obj_dir_wbtoliconverter/Vwbtoliconverter_classes.mk"
+S      7914 12985362  1688845680   467034510  1688845680   463034493 "wbtoliconverter__pickled.v"
